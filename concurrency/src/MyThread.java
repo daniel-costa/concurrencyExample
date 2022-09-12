@@ -10,7 +10,7 @@ public class MyThread extends Thread {
      * Imprime na tela a variável compartilhada (static) indice, que varia
      * de 0 até 5 juntamente com o id da thread que está executando.
      * 
-     * Exemplifica um probelam de race, ou seja, suas threads competindo
+     * Exemplifica um probblema de race, ou seja, suas threads competindo
      * pela manipulação da mesma variável.
      */
     @Override
